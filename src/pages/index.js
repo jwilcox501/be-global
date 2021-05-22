@@ -120,7 +120,7 @@ const links = [
     url: "https://www.gatsbyjs.com/cloud",
     badge: true,
     description:
-      "Now you’re ready to show the world! Give your Gatsby site superpowers: Build and host on Gatsby Cloud. Get started for free!",
+      "Now you’re ready to show the world! Give your Gatsby site superpowers: Build and host on Gatsby Cloud. Get started for free! Sha yea!",
     color: "#663399",
   },
 ]
